@@ -4,7 +4,6 @@ siteUrl: https://links.sarasana.studio
 description: ''
 lang: en
 logo: sarah.jpg
-favicon: favicon.png
 rounded: '16'
 colors:
   DEFAULT: '#FAFAFA'
