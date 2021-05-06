@@ -7,7 +7,7 @@ logo: sarah.jpg
 rounded: '16'
 colors:
   DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
+  highlight: '#d3c8c2'
   accent: '#262626'
   background: '#262626'
 tracking:
