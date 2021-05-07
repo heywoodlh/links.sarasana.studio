@@ -7,6 +7,6 @@ data:
     url: https://blacklivesmatter.com
   - label: Instagram
     url: https://instagram.com/sarasana_yoga
-  - label: Buy me a tea! 翿翿
+  - label: Buy me a tea! 🧉
     url: https://ko-fi.com/sarasana
 ---
