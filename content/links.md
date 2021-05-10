@@ -2,7 +2,7 @@
 key: links
 data:
   - label: Online Classes
-    url: https://www.moviing.co/profiles/sarasana_yoga
+    url: https://www.moviing.co/profiles/sarah-heywood
   - label: Black Lives Matter
     url: https://blacklivesmatter.com
   - label: Instagram
