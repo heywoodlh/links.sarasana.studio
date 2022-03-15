@@ -1,12 +1,16 @@
 ---
 key: links
 data:
-  - label: Online Classes
+  - label: Live Classes
+    url: https://www.omflow.yoga/yoga-teacher/sarah-heywood
+  - label: Pre-recorded Classes
     url: https://www.moviing.co/profiles/sarah-heywood
+  - label: Discount Codes
+    url: ./discounts
+  - label: Incentivise me
+    url: https://ko-fi.com/sarasana
+  - label: Vayamudra 
+    url: https://vayumudra.com 
   - label: Black Lives Matter
     url: https://blacklivesmatter.com
-  - label: Instagram
-    url: https://instagram.com/sarasana_yoga
-  - label: Buy me a tea! 🧉
-    url: https://ko-fi.com/sarasana
 ---
