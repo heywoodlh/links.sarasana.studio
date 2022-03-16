@@ -1,6 +1,6 @@
 ---
-key: 'discounts'
 title: 'Discount codes:'
+slug: "discounts"
 buttonLabel: Go back home 🏠
 ---
   - [Vayumudra](https://vayumudra.com): `heywood15`
