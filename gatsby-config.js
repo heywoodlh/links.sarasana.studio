@@ -1,11 +1,12 @@
 module.exports = {
  plugins: [
-   `@marscollective/gatsby-theme-link-free`,
+   "@marscollective/gatsby-theme-link-free",
    {
-     resolve: `gatsby-plugin-plausible`,
+     resolve: "gatsby-plugin-plausible",
      options: {
-       domain: `links.sarasana.studio`,
+       domain: "links.sarasana.studio",
      },
    },
+   "gatsby-plugin-slug", 
  ],
 };
