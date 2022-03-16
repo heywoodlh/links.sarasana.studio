@@ -6,7 +6,7 @@ data:
   - label: Pre-recorded Classes
     url: https://www.moviing.co/profiles/sarah-heywood
   - label: Discount Codes
-    url: #discounts
+    url: https://github.com/heywoodlh/links.sarasana.studio/blob/main/content/404.md 
   - label: Incentivise me
     url: https://ko-fi.com/sarasana
   - label: Vayamudra 
@@ -15,8 +15,3 @@ data:
     url: https://blacklivesmatter.com
 ---
 
-## Discounts:
-
-  - [Vayumudra](https://vayumudra.com): `heywood15`
-  - [Moviing.co](https://moviing.co): `SARASANA25`
-  - [Meru Beads](https://merubeads.com): `SARAHH15`

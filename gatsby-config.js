@@ -7,6 +7,5 @@ module.exports = {
        domain: "links.sarasana.studio",
      },
    },
-   "gatsby-plugin-slug", 
  ],
 };
